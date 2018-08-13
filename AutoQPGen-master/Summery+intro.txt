@@ -1,0 +1,143 @@
+Assalamualaikum,Sir,We are From H group with 3 members,each member was committed to end each part such as 1.backend 2.frontend 3.database[securtiy],I have done/doing my parts,the project is going to be finished after the EID but facing Errors [i guess for database], and i hope after the EID we will be able to work for the https login system also
+
+
+
+Branch Module :
+
+The main purpose for developing this module is to manage the branch data wise. Barch is an important module in this project Automatic Question Paper Generator which we have developed on php, JSP and MySQL. Here students can get online java projects with database free download. So all branches will be managed by admin and teacher will be able able to see branch list. Admin and Teacher can easily add new branch. Admin can see the list of branch and filter it according to the teacher.
+
+Features of Branch Module:
+
+    Admin can manage the branch
+    Admin can edit/delete the branch
+    Admin can see the list of all branch
+    Teacher can see branch
+
+Course Module :
+
+The main purpose for developing this module is to manage the courses. Here students get easy projects with database. So all courses will be managed by admin and teacher will be see all courses.
+
+Features of Course Module:
+
+    Admin can manage the course
+    Admin can edit/delete the course
+    Admin can see the list of all course
+    Teacher can see his course
+Questions Module :
+
+The main purpose of this module is provide all the functionality realted to questions. It tracks all the information and details of the questions. We have developed all type of CRUD (Create, Read, Update and Delete) operations of the questions. Teacher can search any level of questions and add any type of question.
+
+Features of Question Module:
+
+    Admin can add new question records
+    Admin can see the list of question details
+    Only admin can edit and update the record of the question
+    Admin will be able to delete the records of the question
+    All question forms are validated on client side using JavaScript
+
+Difficult Level Module :
+
+The main purpose for developing this module is to manage the difficult level question. Here you can free download java software projects, the project including final year academic application. So all difficult level question will be managed by admin and teacher will be able to see all the information about difficult level.
+
+Features of Difficult Level Module:
+
+    Admin can manage the difficult level
+    Admin can edit/delete the difficult level
+    Admin can see the list of all difficult level
+    Teacher can see difficult level
+
+Semester Module :
+
+The main aim for developing this module is to manage the semester data wise. Our website Freeprojectz.com contains free download easy java projects. So all insecticide will be managed by admin and teacher will be able to see all the information about semester.
+
+Features of Semester Module:
+
+    Admin can manage the semester
+    Admin can edit/delete the semester
+    Admin can see the list of all semester
+    Customer can see semester
+
+Subject Module :
+
+The main aim for developing this module is to manage the subject data wise. Here you can free download java software projects. So all subjects will be managed by admin teacher will be able able to see all the information about subject.
+
+Features of Subject Module:
+
+    Admin can manage the subject
+    Admin can edit/delete the subject
+    Admin can see the list of all subject
+    Customer can see subject
+
+Functionality performed by Admin user:
+
+These are the functionality performed by the admin users.
+
+    Login For Admin
+    Forgot password for Admin
+    Edit Profile For Admin
+    Change Password For Admin
+    Logout Functionality
+    Dashboard for Admin User
+    Manage Branch
+        Adding New Branch
+        Edit the Exitinng Branch
+        View details of the Branch
+        Listing of all Branch
+    Manage Course
+        Adding New Course
+        Edit the Exiting Course
+        View details of the Course
+        Listing of all Course
+    Manage Difficult Level
+        Adding New Difficult Level
+        Edit the Exiting Difficult Level
+        View details of the Difficult Level
+        Listing of all Difficult Level
+    Manage Question
+        Adding New Question
+        Edit the Exiting Question
+        View details of the Question
+        Listing of all Question
+    Manage Semester
+        Adding New Semester
+        Edit the Exiting Semester
+        View details of the Semester
+        Listing of all
+    Manage Subject
+        Adding New Subject
+        Edit the Exiting Subject
+        View details of the Subject
+        Listing of all Subject
+    Manage System User
+        Adding New System User
+        Edit the Exiting System User
+        View details of the System User
+        Listing of all System User
+    Reports of the project Automatic Question Paper Generator
+        Report of all Branches
+        Report of all Courses
+        Report of all Difficult Levels
+        Report of all Questions
+        Report of all Semesters
+        Report of all Subjects
+        Report of all System Users
+
+Functionality performed by Teacher user:
+
+    Teacher Login : This is the login form, from where teacher can login into the system
+    Teacher Question Paper Generation : Teacher will be able to add the question paper from this form.
+    Generated Question Paper Form : This is the generated question paper form, from where teacher will choose the difficult level question and enter the question their available in the system
+    Change Password : This is the change password module from where teacher change his account password.
+
+Technology Used in the project Automatic Question Paper Generator
+
+We have developed this project using the below technology
+
+    HTML : Page layout has been designed in HTML
+    CSS : CSS has been used for all the desigining part
+    JavaScript : All the validation task and animations has been developed by JavaScript
+    PHP : All the bussiness logic has been written in Java
+    MySQL : MySQL database has been used as database for the project
+    XAMPP : Project will be run over the Tomcat server
+
+TESTED/EDITED on WINDOWS 10
