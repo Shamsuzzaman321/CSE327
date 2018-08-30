@@ -1,0 +1,188 @@
+Assalamualaikum,Sir,We are From H group with 3 members,each member was committed to end each part such as 1.backend(this part was onto me and i have tried my best for the project) 2.frontend 3.database[securtiy],I have done/doing my parts,the project is going to be finished after the EID but facing Errors [i guess for database], and i hope after the EID we will be able to work for the https login system also
+
+
+Agile:
+Every project manager knows that selecting the right methodology is crucial to getting the job right. While there are project management methodologies a-plenty, we’ve narrowed it down to seven popular ones and what they’re best suited for
+
+One of the more recognizable project management methodologies, Agile is best suited for projects that are iterative and incremental. It’s a type of process where demands and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customers. Originally created for software development, it was established as a response to the inadequacies of the Waterfall method (info on it later below), the processes of which did not meet the demands of the highly competitive and constant movement of the software industry.
+
+Agile project management stems from the values and principles of the Agile Manifesto. A declaration cemented in 2001 by 13 industry leaders, its purpose is to uncover better ways of developing software by providing a clear and measurable structure that fosters iterative development, team collaboration, and change recognition
+They are essentially processes that aim to assist project managers with guidance throughout the project, and the steps to take to completing the tasks. Different methodologies have different strategies that aid in managing issues should they arise during the project’s delivery.
+
+There are many methodologies to choose from, each with their own set of rules, principles, processes, and practices. Which methodology you should implement depends entirely on the type of project you will undertake. The point of selecting a project management methodology is to maximize the use of resources and time.
+
+One thing to keep in mind is that while there are a number of methodologies to choose from, there is not such thing as the ‘right’ methodology. Meaning, there won’t be the one methodology that is perfect to use for every single project. Projects vary in scope and requirements, which means the right methodology to implement will also vary.
+
+Now, let’s take a look at some of the more popular methodologies, and do our own project management methodologies comparison
+
+Values:
+Individual students/teachers and admins over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+
+In the Agile methodology, each project is broken up into several ‘Iterations’.
+All Iterations should be of the same time duration (between 2 to 8 weeks).
+At the end of each iteration, a working product should be delivered.
+In simple terms, in the Agile approach the project will be broken up into 10 releases (assuming each iteration is set to last 4 weeks).
+Rather than spending 1.5 months on requirements gathering, in Agile software development, the team will decide the basic core features that are required in the product and decide which of these features can be developed in the first iteration.
+Any remaining features that cannot be delivered in the first iteration will be taken up in the next iteration or subsequent iterations, based on priority.
+At the end of the first iterations, the team will deliver a working software with the features that were finalized for that iteration.
+There will be 10 iterations and at the end of each iteration the customer is delivered a working software that is incrementally enhanced and updated with the features that were shortlisted for that iteration.
+Plan. After the idea is determined, the project team should identify and plan the main features. The main purpose of this step is to divide the idea into different pieces.
+Requirements analysis. This step contains meetings with managers and users to identify business needs and goals. It’s important to note everything. For example, who will use the product and how will they do it. The requirements should be measurable and relevant.
+Design. With the help of the requirements, it’s possible to work on software design and think about how the product will look like.
+Implementation, coding, and development. Creating and testing features are also belong to this step.
+Testing. Specialists test the code to make sure the product is solving customer needs and matching user stories. This step includes unit testing, integration testing, system testing, and acceptance testing.
+Deployment. After all tests, the product should be delivered to the customer.
+
+
+
+Branch Module :
+
+The main purpose for developing this module is to manage the branch data wise. Barch is an important module in this project Automatic Question Paper Generator which we have developed on php, JSP and MySQL. Here students can get online java projects with database free download. So all branches will be managed by admin and teacher will be able able to see branch list. Admin and Teacher can easily add new branch. Admin can see the list of branch and filter it according to the teacher.
+
+Features of Branch Module:
+
+    Admin can manage the branch
+    Admin can edit/delete the branch
+    Admin can see the list of all branch
+    Teacher can see branch
+
+Course Module :
+
+The main purpose for developing this module is to manage the courses. Here students get easy projects with database. So all courses will be managed by admin and teacher will be see all courses.
+
+Features of Course Module:
+
+    Admin can manage the course
+    Admin can edit/delete the course
+    Admin can see the list of all course
+    Teacher can see his course
+Questions Module :
+
+The main purpose of this module is provide all the functionality realted to questions. It tracks all the information and details of the questions. We have developed all type of CRUD (Create, Read, Update and Delete) operations of the questions. Teacher can search any level of questions and add any type of question.
+
+Features of Question Module:
+
+    Admin can add new question records
+    Admin can see the list of question details
+    Only admin can edit and update the record of the question
+    Admin will be able to delete the records of the question
+    All question forms are validated on client side using JavaScript
+
+Difficult Level Module :
+
+The main purpose for developing this module is to manage the difficult level question. Here you can free download java software projects, the project including final year academic application. So all difficult level question will be managed by admin and teacher will be able to see all the information about difficult level.
+
+Features of Difficult Level Module:
+
+    Admin can manage the difficult level
+    Admin can edit/delete the difficult level
+    Admin can see the list of all difficult level
+    Teacher can see difficult level
+
+Semester Module :
+
+The main aim for developing this module is to manage the semester data wise. Our website Freeprojectz.com contains free download easy java projects. So all insecticide will be managed by admin and teacher will be able to see all the information about semester.
+
+Features of Semester Module:
+
+    Admin can manage the semester
+    Admin can edit/delete the semester
+    Admin can see the list of all semester
+    Customer can see semester
+
+Subject Module :
+
+The main aim for developing this module is to manage the subject data wise. Here you can free download java software projects. So all subjects will be managed by admin teacher will be able able to see all the information about subject.
+
+Features of Subject Module:
+
+    Admin can manage the subject
+    Admin can edit/delete the subject
+    Admin can see the list of all subject
+    Customer can see subject
+
+Functionality performed by Admin user:
+
+These are the functionality performed by the admin users.
+
+    Login For Admin
+    Forgot password for Admin
+    Edit Profile For Admin
+    Change Password For Admin
+    Logout Functionality
+    Dashboard for Admin User
+    Manage Branch
+        Adding New Branch
+        Edit the Exitinng Branch
+        View details of the Branch
+        Listing of all Branch
+    Manage Course
+        Adding New Course
+        Edit the Exiting Course
+        View details of the Course
+        Listing of all Course
+    Manage Difficult Level
+        Adding New Difficult Level
+        Edit the Exiting Difficult Level
+        View details of the Difficult Level
+        Listing of all Difficult Level
+    Manage Question
+        Adding New Question
+        Edit the Exiting Question
+        View details of the Question
+        Listing of all Question
+    Manage Semester
+        Adding New Semester
+        Edit the Exiting Semester
+        View details of the Semester
+        Listing of all
+    Manage Subject
+        Adding New Subject
+        Edit the Exiting Subject
+        View details of the Subject
+        Listing of all Subject
+    Manage System User
+        Adding New System User
+        Edit the Exiting System User
+        View details of the System User
+        Listing of all System User
+    Reports of the project Automatic Question Paper Generator
+        Report of all Branches
+        Report of all Courses
+        Report of all Difficult Levels
+        Report of all Questions
+        Report of all Semesters
+        Report of all Subjects
+        Report of all System Users
+
+Functionality performed by Teacher user:
+
+    Teacher Login : This is the login form, from where teacher can login into the system
+    Teacher Question Paper Generation : Teacher will be able to add the question paper from this form.
+    Generated Question Paper Form : This is the generated question paper form, from where teacher will choose the difficult level question and enter the question their available in the system
+    Change Password : This is the change password module from where teacher change his account password.
+
+Technology Used in the project Automatic Question Paper Generator
+
+We have developed this project using the below technology
+
+    HTML : Page layout has been designed in HTML
+    CSS : CSS has been used for all the desigining part
+    JavaScript : All the validation task and animations has been developed by JavaScript
+    PHP : All the bussiness logic has been written in Java
+    MySQL : MySQL database has been used as database for the project
+    XAMPP : Project will be run over the Tomcat server
+
+TESTED/EDITED on WINDOWS 10
+
+It abandons the risk of spending months on a process that ultimately fails because of some small mistake in an early phase. It relies instead on trusting employees and teams to work directly with customers to understand the goals and provide solutions in a fast and incremental way.
+
+Faster, smaller. Traditional software development relied on phases like outlining the requirements, planning, design, building, testing, and delivery. Agile methodology, by contrast, looks to deploy the first increment in a couple weeks and the entire piece of software in a couple months.
+Communication. Agile teams within the business work together daily at every stage of the project through face-to-face meetings. This collaboration and communication ensure the process stays on track even as conditions change.
+Feedback. Rather than waiting until the delivery phase to gauge success, teams leveraging Agile methodology track the success and speed of the development process regularly. Velocity is measured after the delivery of each increment.
+Trust. Agile teams and employees are self-organizing. Rather than following a manifesto of rules from management intended to produce the desired result, they understand the goals and create their own path to reach them.
+Adjust. Participants tune and adjust the process continually, following the KIS or Keep It Simple principle
+
